@@ -17,7 +17,7 @@ python3 -m pip install mysql-connector-python==8.0.31
 
 ## Start ZooKeeper
 ```
-cd kafka_2.12-2.8.0 <br>
+cd kafka_2.12-2.8.0 
 bin/zookeeper-server-start.sh config/zookeeper.properties <br>
 ```
 
